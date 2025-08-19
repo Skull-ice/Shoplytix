@@ -1,0 +1,8 @@
+streamlit
+pandas
+reportlab
+gspread
+oauth2client
+streamlit-authenticator
+requests
+plotly
